@@ -1,0 +1,2 @@
+This list displays all students that have at least one satisfactory mark
+Артаманов Сергей Степанов Grade: 15. Group: 7 Exam Marks: 3 2 2 2 
